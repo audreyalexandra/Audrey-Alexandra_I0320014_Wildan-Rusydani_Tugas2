@@ -12,7 +12,7 @@ print(20)
 print(3.14)
 
 #tipe data Hexadecimal
-print("contoh mengubah ke kode hex adalah " + hex(23))
+print(9a)
 
 #tipe data Complex
 print(5j)
