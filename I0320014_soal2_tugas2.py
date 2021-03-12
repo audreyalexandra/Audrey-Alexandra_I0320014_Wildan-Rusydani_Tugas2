@@ -37,6 +37,18 @@ universitas = "Universitas Sebelas Maret"
 jurusan = "Teknik Industri"
 angkatan = 2020
 
+print("=================================================")
+print(" ==================== Identitas Diri ==================")
+print("=================================================")
+print ("")
+print("Haii!!!")
+print ("Perkenalkan namaku",nama_lengkap,", orang-orang biasa memanggilku dengan",nama_panggilan,"jenis kelaminku adalah",jenis_kelamin,". Aku berumur" ,umur,"tahun, perempuan kelahiran",tempat_lahir,", pada tanggal",tanggal_lahir,"bulan",bulan_lahir,"tahun",tahun_lahir,"aku Bergolongan darah",gol_darah,"golongan darah yang paling mudah mendapatkan pendonor.")
+print("Aku tinggal di",alamat,",bersama kedua orang tuaku dan abang, ayahku",nama_ayah,"dan ibuku",nama_ibu," dan abangku",nama_abang,)
+print("Aku memiliki tinggi",tinggi_badan,"mungkin anak yang paling tinggi di kelas heheh,. Oh ya  bagi yag ingin tau ukuran sepatuku",ukuran_sepatu,"cm hehehe.")
+print("Makanan Kesukaanku adalah",makanan_favorit,"Minuman kesukaanku",minuman_favorit,"warna kesukaanku adalah",warna_favorit,"Salah satu hobiku adalah",hobi,"dan masih banyak lagi.")
+print("sekarang aku adalah",pekerjaan,"di salah satu universitas ternama di Indonesia yaitu",universitas,"dengan jurusan",jurusan,"angkatan",angkatan,"cukup sampai disini perkenalan diriku  See you :)")
+print("==========================================================")
+
 
 
 
